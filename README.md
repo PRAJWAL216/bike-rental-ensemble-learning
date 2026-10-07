@@ -66,25 +66,14 @@ In our experiment:
 ## Project Structure
 
 ```text
+
+### Project Structure
+```text
 bike-rental-ensemble-learning/
-│
-├── data/
-│   └── train.csv
-│
-├── src/
-│   └── bike_prediction.py
-│
-├── notebooks/
-│   └── bike_rental_prediction.ipynb
-│
-├── results/
-│   ├── model_comparison.csv
-│   ├── model_comparison.png
-│   └── predictions.csv
-│
-├── requirements.txt
 ├── README.md
-└── .gitignore
+├── bike_prediction.ipynb
+├── bike_prediction.py
+└── requirements.txt
 ```
 
 ## How to Run
