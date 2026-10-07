@@ -74,21 +74,9 @@ bike-rental-ensemble-learning/
 ├── bike_prediction.ipynb
 ├── bike_prediction.py
 └── requirements.txt
+└── train.csv
 ```
 
-## How to Run
-
-Install the required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the Python program:
-
-```bash
-python src/bike_prediction.py
-```
 
 ## Conclusion
 
